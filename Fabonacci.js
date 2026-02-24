@@ -9,4 +9,3 @@ for (let i = 0; i < n; i++) {
     b = next;
 }
 
-#Help frmo Ai
